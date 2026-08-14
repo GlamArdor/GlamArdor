@@ -6,7 +6,7 @@
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Glam_Ardor)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/Glam_Ardor)
-![Discord](https://img.shields.io/badge/Discord-Glam__Ardor-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-Glam__Ardor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/276416041188458499)
 
 </div>
 &nbsp;

@@ -15,24 +15,29 @@ I build small, focused client mods for roleplay servers, and release them for ev
 
 ## Roleplay
 
-- **Roleplayer's Atlas** — a hand-drawn atlas for roleplay servers: territories, roads, quill inscriptions, dated marks, and maps you sign and hand to other players · [Modrinth ↗](https://modrinth.com/mod/roleplayers-atlas)
-- **Roleplayer's Dice** — the chat line is held back, a die appears, you throw it by hand, and it lands on the number the server rolled · [Codeberg ↗](https://codeberg.org/Glam_Ardor/roleplayers-dice)
-- **Absolute Cinema Camera** — cinema mode: letterbox, colour grading, depth of field and a director that shoots your scenes · [Modrinth ↗](https://modrinth.com/mod/absolute-cinema-camera)
+- **Roleplayer's Atlas** – a hand-drawn atlas for roleplay servers: territories, roads, quill inscriptions, dated marks, and maps you sign and hand to other players · [Modrinth ↗](https://modrinth.com/mod/roleplayers-atlas)
+- **Roleplayer's Dice** – the chat line is held back, a die appears, you throw it by hand, and it lands on the number the server rolled · [Modrinth ↗](https://modrinth.com/mod/roleplayers-dice)
+- **Roleplayer's Quill** – a book editor that writes ordinary vanilla books, so anyone can read them without the mod · [Codeberg ↗](https://codeberg.org/Glam_Ardor/roleplayers-quill)
+- **Absolute Cinema Camera** – cinema mode: letterbox, colour grading, depth of field and a director that shoots your scenes · [Modrinth ↗](https://modrinth.com/mod/absolute-cinema-camera)
 
 ## Voice chat
 
-- **Voice Chat Mic Indicator** — a microphone indicator above a talking player's head, visible even when name tags are hidden · [Modrinth ↗](https://modrinth.com/mod/voice-chat-mic-indicator)
-- **Voice Subtitles** — live subtitles for Simple Voice Chat: offline speech recognition, offline Russian and English translation, captions above heads and a searchable conversation log · [Codeberg ↗](https://codeberg.org/Glam_Ardor/voice-subtitles)
+- **Voice Chat Mic Indicator** – a microphone indicator above a talking player's head, visible even when name tags are hidden · [Modrinth ↗](https://modrinth.com/mod/voice-chat-mic-indicator)
+- **Voice Subtitles** – live subtitles for Simple Voice Chat: offline speech recognition, offline Russian and English translation, captions above heads and a searchable conversation log · [Modrinth ↗](https://modrinth.com/mod/voice-subtitles)
 
 ## Quality of life
 
-- **Custom Block Sounds** — resource packs can override block sounds per blockstate: break, fall, hit, place, step and ambient · [Modrinth ↗](https://modrinth.com/mod/custom-block-sounds)
-- **Perspective Mod Reborn** — free look, an unofficial continuation of Canelex's Perspective Mod, covering 1.20.5 through 26.x · [Codeberg ↗](https://codeberg.org/Glam_Ardor/perspective-mod-reborn)
+- **Custom Block Sounds** – resource packs can override block sounds per blockstate: break, fall, hit, place, step and ambient · [Modrinth ↗](https://modrinth.com/mod/custom-block-sounds)
+- **Perspective Mod Reborn** – free look, an unofficial continuation of Canelex's Perspective Mod, covering 1.20.5 through 26.x · [Codeberg ↗](https://codeberg.org/Glam_Ardor/perspective-mod-reborn)
+- **Figura Performance** – hides the Figura avatars you are not looking at, so a crowd stops eating your frame rate · [Codeberg ↗](https://codeberg.org/Glam_Ardor/figura-performance)
+- **Voxy World Split** – keeps Voxy's LOD storage separate for each backend of a proxy network, so a copied test world stops leaking into the main one · [Codeberg ↗](https://codeberg.org/Glam_Ardor/voxy-world-split)
+- **Flashback Inspector** – puts your inventory and the contents of opened containers into a Flashback replay, with a read-only inventory screen in the viewer · [Codeberg ↗](https://codeberg.org/Glam_Ardor/flashback-inspector)
 
 ## Fixes
 
-- **Figura Crash Fix** — stops Figura from dropping every resource pack and throwing you to the main menu on a pack reload · [Codeberg ↗](https://codeberg.org/Glam_Ardor/figura-crash-fix)
-- **Voxy Font Fix** — repairs Cyrillic glyphs and red item sprites broken by Voxy leaving stale texture bindings behind · [Codeberg ↗](https://codeberg.org/Glam_Ardor/voxy-font-fix)
+- **Figura Crash Fix** – stops Figura from dropping every resource pack and throwing you to the main menu on a pack reload · [Codeberg ↗](https://codeberg.org/Glam_Ardor/figura-crash-fix)
+- **Voxy Font Fix** – repairs Cyrillic glyphs and red item sprites broken by Voxy leaving stale texture bindings behind · [Codeberg ↗](https://codeberg.org/Glam_Ardor/voxy-font-fix)
+- **Book Editor Compat** – lets ImagineBook and Stendhal share the book editor by dropping the faint page copy that doubles formatted text · [Codeberg ↗](https://codeberg.org/Glam_Ardor/book-editor-compat)
 
 <br>
 
